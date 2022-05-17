@@ -6,6 +6,4 @@
 I'm 19 years old.
 <br />
 <br />
-<b> Skills </b>
-<br/>
-<b> SKILLS </b>
+<b> My Skills </b>
