@@ -2,4 +2,6 @@
 <br />
 
 <b>I am Front End Developer. </b> 
+<br />
 I'm 19 years old.
+<br />
