@@ -9,6 +9,6 @@ I'm 19 years old.
 <b> My Skills </b>
 <br />
 <code>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhJoiJoT_html-css-logo-png-transparent-png%2F&psig=AOvVaw2cOT0BCYlMaFuSmMWFKqCD&ust=1652890722398000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLC9vqj45vcCFQAAAAAdAAAAABAo" >
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-z7i3lp%2F&psig=AOvVaw2cOT0BCYlMaFuSmMWFKqCD&ust=1652890722398000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLC9vqj45vcCFQAAAAAdAAAAABAt" >
 </code>
 
