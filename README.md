@@ -11,4 +11,7 @@ I'm 19 years old.
 <code>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw1Y1xTJPx4AFkTkr-FxRECk&ust=1652891049246000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCAzJT55vcCFQAAAAAdAAAAABAE" height="40px" >
 </code>
+<code>
+<img src="https://picsum.photos/50/50/" height="40px" >
+</code>
 
