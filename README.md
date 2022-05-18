@@ -7,7 +7,7 @@ I'm 19 years old.
 <br />
 <br />
 <b> My Skills </b>
-<br />
+
 <hr />
 <code>
 <img src="https://user-images.githubusercontent.com/99414057/169002515-a7c3280e-84e2-4dd7-a9bc-e73ab5a0713c.png" height="25px" >
