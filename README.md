@@ -14,3 +14,12 @@ I'm 19 years old.
 <code>
 <img src="https://pngset.com/images/css3-logo-css-logo-background-symbol-text-first-aid-tabletop-transparent-png-1301426.png" height="25px" >
 </code>
+<code>
+<img src="https://www.pngkit.com/png/detail/377-3771972_sass.png" height="25px" >
+</code>
+<code>
+<img src="https://pngset.com/images/css3-logo-css-logo-background-symbol-text-first-aid-tabletop-transparent-png-1301426.png" height="25px" >
+</code>
+<code>
+<img src="https://pngset.com/images/css3-logo-css-logo-background-symbol-text-first-aid-tabletop-transparent-png-1301426.png" height="25px" >
+</code>
