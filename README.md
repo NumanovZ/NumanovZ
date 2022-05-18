@@ -34,3 +34,4 @@ I'm 19 years old.
 📄 Ask me about anything, I am happy to help <br />
 📩 Email to contact me: numanovziynatillobek@gmail.com  <br />
 📫 Telegram to contact me: @Numanov_z  <br />
+<a href="https://t.me/NuMaNoV_Z">@Numanov_z<a/>
