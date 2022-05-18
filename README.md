@@ -7,7 +7,7 @@ I'm 19 years old.
 <br />
 <br />
 <b> My Skills </b>
-<hr />
+<br />
 <code>
 <img src="https://user-images.githubusercontent.com/99414057/169002515-a7c3280e-84e2-4dd7-a9bc-e73ab5a0713c.png" height="25px" >
 </code> &nbsp;
@@ -29,3 +29,4 @@ I'm 19 years old.
 <code>
 <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" height="25px" >
 </code> &nbsp;
+<hr />
