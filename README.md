@@ -32,6 +32,6 @@ I'm 19 years old.
 <hr />
 📍&nbsp; Current location: Uzbekistan, Andijon <br />
 📄&nbsp; Ask me about anything, I am happy to help <br />
-📩&nbsp; Email to contact me: [numanovziynatillo@gmail.com](https://mail.google.com/numanovziynatillo@gmail.com)  <br />
+📩&nbsp; Email to contact me: [numanovziynatillo@gmail.com](https://mail.google.com/mail/numanovziynatillo@gmail.com)  <br />
 📫&nbsp; Telegram to contact me: <a target="_block" href="https://t.me/NuMaNoV_Z">@Numanov_z<a/>  <br />
 <a target="_block" href="https://numanovziynatillo@gmail.com">numanovziynatillo@gmail.com<a/>
