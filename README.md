@@ -26,4 +26,6 @@ I'm 19 years old.
 <code>
 <img src="https://forwww.com/wp-content/uploads/2017/03/jquery-icon.png" height="25px" >
 </code> &nbsp;
-<h4>HTML</h4>
+<code>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" height="25px" >
+</code> &nbsp;
