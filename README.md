@@ -30,3 +30,7 @@ I'm 19 years old.
 <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" height="25px" >
 </code> &nbsp;
 <hr />
+📍  Current location: Uzbekistan, Andijon 
+📄 Ask me about anything, I am happy to help 
+📩 Email to contact me: numanovziynatillobek@gmail.com
+📫 Telegram to contact me: @Numanov_z
