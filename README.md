@@ -26,3 +26,6 @@ I'm 19 years old.
 <code>
 <img src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" height="25px" >
 </code> &nbsp;
+<code>
+<img src="https://forwww.com/wp-content/uploads/2017/03/jquery-icon.png" height="25px" >
+</code> &nbsp;
