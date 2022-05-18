@@ -10,7 +10,7 @@ I'm 19 years old.
 <br />
 <code>
 <img src="https://user-images.githubusercontent.com/99414057/169002515-a7c3280e-84e2-4dd7-a9bc-e73ab5a0713c.png" height="25px" >
-</code> &nbsp;<h4>HTML</h4>
+</code> &nbsp;
 <code>
 <img src="https://pngset.com/images/css3-logo-css-logo-background-symbol-text-first-aid-tabletop-transparent-png-1301426.png" height="25px" >
 </code> &nbsp;
@@ -26,3 +26,4 @@ I'm 19 years old.
 <code>
 <img src="https://forwww.com/wp-content/uploads/2017/03/jquery-icon.png" height="25px" >
 </code> &nbsp;
+<h4>HTML</h4>
