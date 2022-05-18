@@ -30,8 +30,8 @@ I'm 19 years old.
 <img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" height="25px" >
 </code> &nbsp;
 <hr />
-📍  Current location: Uzbekistan, Andijon <br />
-📄 Ask me about anything, I am happy to help <br />
-📩 Email to contact me: [numanovziynatillo@gmail.com](numanovziynatillo@gmail.com)  <br />
-📫 Telegram to contact me: <a target="_block" href="https://t.me/NuMaNoV_Z">@Numanov_z<a/>  <br />
+📍&nbsp; Current location: Uzbekistan, Andijon <br />
+📄&nbsp; Ask me about anything, I am happy to help <br />
+📩&nbsp; Email to contact me: [numanovziynatillo@gmail.com](https://https://mail.google.com/numanovziynatillo@gmail.com)  <br />
+📫&nbsp; Telegram to contact me: <a target="_block" href="https://t.me/NuMaNoV_Z">@Numanov_z<a/>  <br />
 <a target="_block" href="https://numanovziynatillo@gmail.com">numanovziynatillo@gmail.com<a/>
