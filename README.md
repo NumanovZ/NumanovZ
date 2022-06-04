@@ -1,6 +1,6 @@
 ### Hi, I'm Ziynatillo Nomonov  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" >
 <br />
-
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media4.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif?cid=ecf05e47yboelwv43q6vw604h53vkg6pwe95fshf8d90c2ys&rid=giphy.gif&ct=s)"
 <b>I am Front End Developer. </b> 
 <br />
 I'm 19 years old.
